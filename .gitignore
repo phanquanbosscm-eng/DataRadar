@@ -1,6 +1,7 @@
 node_modules/
 dist/
 dist-crm/
+radar/
 .DS_Store
 *.log
 .env
